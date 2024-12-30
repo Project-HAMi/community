@@ -1,5 +1,5 @@
  | Name | Version | License | 
- | --- | --- | --- | --- | 
+ |---|---|---| 
  | github.com/NVIDIA/go-gpuallocator | v0.3.2 | Apache-2.0 | 
  | github.com/NVIDIA/go-nvlib | v0.2.0 | Apache-2.0 | 
  | github.com/NVIDIA/go-nvml | v0.12.0-3 | Apache-2.0 | 
