@@ -13,6 +13,7 @@ Welcome to the HAMi community! We’re excited that you want to contribute. Whet
 - [Contributor Workflow](#contributor-workflow)
   - [Creating Pull Requests](#creating-pull-requests)
   - [Code Review](#code-review)
+- [Tell the world you're using HAMi](#tell-the-world-youre-using-hami)
 
 ## Before You Get Started
 
@@ -73,3 +74,9 @@ After submitting a PR, it will be reviewed by a maintainer. Here are some tips t
 - Follow good coding practices. Refer to [Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments) for style guidelines.
 - Write meaningful commit messages that explain the "why" behind your changes. [Best practices for commit messages](https://chris.beams.io/posts/git-commit/) are a great resource.
 - If your PR involves a large change, break it down into smaller, logical pieces that make incremental improvements. This helps reviewers follow the logic of your changes and ensures easier acceptance.
+
+## Tell the world you're using HAMi
+
+Running HAMi in production? Add yourself to our [Adopters](./adopters.md) page!
+
+If you'd like a full case study interview, [create an issue](https://github.com/Project-HAMi/HAMi/issues/new), and we'll get in touch!
