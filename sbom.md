@@ -1,5 +1,9 @@
 # SBOM of HAMi
 
+We provide a Software Bill of Materials (SBOM) for this project, which includes a detailed list of all components, libraries, and dependencies used in the project. 
+This helps to ensure the transparency and security of the software by tracking and managing its dependencies.
+
+
 Software Bill of Materials:
 - [Project 'HAMi'](#project-hami)
 

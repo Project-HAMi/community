@@ -45,3 +45,7 @@ If you're interested in being a contributor and want to get involved in developi
 
 - If you have any questions, please refer to: [HAMi FAQ](https://github.com/Project-HAMi/HAMi/issues/646). 
 - If you can't find any related issues, please [create an issue](https://github.com/Project-HAMi/HAMi/issues/new).
+
+## SBOM (Software Bill of Materials)
+
+We provide a [Software Bill of Materials](./sbom.md) (SBOM) for this project, which includes a detailed list of all components, libraries, and dependencies used in the project.
