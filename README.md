@@ -10,39 +10,46 @@ Regular Community Meetings:
 - **Asia Time**: **Friday at 16:00 (UTC+8)** (weekly).
   ([Convert to your timezone.](https://www.thetimezoneconverter.com/?t=14%3A30&tz=GMT%2B8&))
 
-Regular Community Meeting:
-- Asia Timeg: **Friday at 16:00 UTC+8 (Chinese)**(weekly).
-  ([Convert to your timezone](https://www.thetimezoneconverter.com/?t=14%3A30&tz=GMT%2B8&))
-
 Resources:
-- [Meeting notes and agenda](https://docs.google.com/document/d/1YC6hco03_oXbF9IOUPJ29VWEddmITIKIfSmBX8JtGBw/edit#heading=h.g61sgp7w0d0c)
+- [Meeting notes and agenda](https://shorturl.at/S457j)
 - [Meeting link](https://meeting.tencent.com/dm/Ntiwq1BICD1P)
-- [Meeting Calendar](https://calendar.google.com/calendar/embed?src=hami@project-hami.com)
 
 ## Contact
 
-If you have any questions, feel free to reach out to us in the following ways:
+<!--
+We don't have a troubleshooting guide yet.  When we do, uncomment the following and add the link.
+If you need support, start with the [troubleshooting guide], and work your way through the process that we've outlined.
 
-- [Slack Channel](https://cloud-native.slack.com/archives/C07T10BU4R2)
-- [Mailing List](https://groups.google.com/forum/#!forum/hami-project)
+-->
+
+If you have any question, feel free to reach out to us in the following ways:
+
+[Mailing list](https://groups.google.com/forum/#!forum/hami-project)
+[HAMi Slack Channel](https://cloud-native.slack.com/archives/C07T10BU4R2) | [Join](https://slack.cncf.io/)
 
 ## Contribute
 
-The [Contributor Guide](./contributing.md) provides detailed instructions on how to get your ideas and bug fixes seen and accepted, including:
+The [Contributor Guide](./contributing.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
 
-1. [Your First Contribution](./contributing.md#your-first-contribution)
-2. [Contributor Workflow](./contributing.md#contributor-workflow)
+1. How to [find something to work on](./contributing.md#find-something-to-work-on)
+2. How to [create a pull request](./contributing.md#creating-pull-requests)
+3. [Contributor Workflow](./contributing.md#contributor-workflow)
+4. How to [code review](./contributing.md#code-review)
 
+If you're interested in being a contributor and want to get involved in developing the HAMi code, please see [contribute](./contributing.md) for details on submitting patches and the contribution workflow.
 
-If you're interested in being a contributor and want to get involved in developing the HAMi code, please see [CONTRIBUTOR-LADDER](./CONTRIBUTOR-LADDER.md#contributor) for details on submitting patches and the contribution workflow, including:
+## Membership
 
-1. How to [become a Contributor](./CONTRIBUTOR-LADDER.md#contributor)
-2. How to [become a Reviewer](./CONTRIBUTOR-LADDER.md#reviewer)
-3. How to [become a Maintainer](./CONTRIBUTOR-LADDER.md#maintainer)
+We encourage all contributors to become members. Learn more about requirements and responsibilities of membership in our [Community Membership doc](./community-membership.md).
+
+1. How to [become a Member](./community-membership.md#Member)
+2. How to [become a Reviewer](./community-membership.md#Reviewer)
+3. How to [become a Approver](./community-membership.md#Approver)
+4. How to [become a Maintainer](./community-membership.md#Maintainer)
 
 ## Questions and issues
 
-- If you have any questions, please refer to: [HAMi FAQ](https://github.com/Project-HAMi/HAMi/issues/646). 
+- If you have any questions, please refer to: [HAMi FAQ](https://github.com/Project-HAMi/HAMi/issues/646).
 - If you can't find any related issues, please [create an issue](https://github.com/Project-HAMi/HAMi/issues/new).
 
 ## SBOM (Software Bill of Materials)

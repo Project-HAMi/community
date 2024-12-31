@@ -1,76 +1,102 @@
-# Contributing to HAMi
+# Contributing
 
-Welcome to the HAMi community! We’re excited that you want to contribute. Whether you're here to fix bugs, add new features, or improve documentation, your help is valuable.
+Welcome to HAMi!
 
-## Table of Contents
-- [Before You Get Started](#before-you-get-started)
+- [Contributing](#contributing)
+- [Before you get started](#before-you-get-started)
   - [Code of Conduct](#code-of-conduct)
   - [Community Expectations](#community-expectations)
-- [Getting Started](#getting-started)
+- [Getting started](#getting-started)
 - [Your First Contribution](#your-first-contribution)
-  - [Find Something to Work On](#find-something-to-work-on)
-  - [File an Issue](#file-an-issue)
+  - [Find something to work on](#find-something-to-work-on)
+    - [Find a good first topic](#find-a-good-first-topic)
+      - [Work on an issue](#work-on-an-issue)
+    - [File an Issue](#file-an-issue)
 - [Contributor Workflow](#contributor-workflow)
   - [Creating Pull Requests](#creating-pull-requests)
   - [Code Review](#code-review)
-- [Tell the world you're using HAMi](#tell-the-world-youre-using-hami)
 
-## Before You Get Started
+# Before you get started
 
-### Code of Conduct
-Please read and follow our [Code of Conduct](CODE-OF-CONDUCT.md). It outlines the expectations for respectful and collaborative behavior within the community.
+## Code of Conduct
 
-### Community Expectations
-HAMi is driven by a diverse and inclusive community. We strive to foster a welcoming, productive, and friendly environment where contributors of all backgrounds can participate and grow.
+Please make sure to read and observe our [Code of Conduct](/CODE_OF_CONDUCT.md).
 
-## Getting Started
+## Community Expectations
 
-To contribute to HAMi, follow these simple steps:
-1. **Fork the Repository** – Click the "Fork" button in the top-right corner of the GitHub repository.
-2. **Make Your Changes** – Clone your fork, create a branch, and make the necessary code changes.
-3. **Submit a Pull Request (PR)** – Once your changes are ready, open a pull request to the main repository.
+HAMi is a community project driven by its community which strives to promote a healthy, friendly and productive environment.
 
-## Your First Contribution
+# Getting started
 
-### Find Something to Work On
-We always need help with various tasks, including fixing bugs, improving documentation, or adding new features. Here’s how you can get started:
+- Fork the repository on GitHub
+- Make your changes in your forked repository
+- Submit a Pull Request (PR)
 
-#### Find a Good First Topic
-Look for issues marked as "good first issue" or "help wanted." These issues are typically beginner-friendly and don’t require deep knowledge of the codebase. You can find these labels in the [issues section](https://github.com/Project-HAMi/HAMi/issues).
+# Your First Contribution
 
-#### Work on an Issue
-When you find an issue you'd like to work on, comment on the issue to let the maintainers know you're interested. They will assign the issue to you and guide you if needed.
+We will help you contribute in different areas such as filing issues, developing features, fixing critical bugs and
+getting your work reviewed and merged.
+
+If you have questions about the development process,
+feel free to [file an issue](https://github.com/Project-HAMi/HAMi/issues/new/choose).
+
+## Find something to work on
+
+We are always in need of help, whether it's fixing documentation, reporting bugs, or writing code.
+Look for places where best coding practices aren't followed, code refactoring is needed, or tests are missing.
+Here's how you can get started.
+
+### Find a good first topic
+
+There are [multiple repositories](https://github.com/Project-HAMi/) within the HAMi organization.
+Each repository has beginner-friendly issues marked as "good first issues".
+For example, [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) has
+[help wanted](https://github.com/Project-HAMi/HAMi/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) and
+[good first issue](https://github.com/Project-HAMi/HAMi/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+labels for issues that should not require deep knowledge of the system.
+We can help new contributors who wish to work on such issues.
+
+Another good way to contribute is to find documentation improvements, such as fixing missing or broken links.
+Please see [Contributing](#contributing) below for the workflow.
+
+#### Work on an issue
+
+When you are willing to take on an issue, simply reply to the issue and a maintainer will assign it to you.
 
 ### File an Issue
-If you notice a bug or improvement area, we encourage you to file an issue. Ensure it is submitted under the appropriate sub-repository of HAMi. 
 
-**Example:** A bug or feature request for the main HAMi repository should be opened in [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi/issues).
+While we encourage everyone to contribute code, we also appreciate when someone reports an issue.
+Issues should be filed under the appropriate HAMi sub-repository.
 
-Please follow the submission guidelines provided for creating a clear, actionable issue.
+*Example:* A HAMi issue should be opened in [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi/issues).
 
-## Contributor Workflow
+Please follow the provided submission guidelines when opening an issue.
 
-Here’s the basic flow for contributing to HAMi:
+# Contributor Workflow
 
-1. **Create a Topic Branch** – Create a branch from the main branch (`master`) for your changes.
-2. **Make Logical Commits** – Break your work into smaller, logical commits that address specific changes.
-3. **Push Changes** – Push your changes to your fork on GitHub.
-4. **Submit a Pull Request** – Open a pull request from your fork to the main repository.
+Please never hesitate to ask questions or submit a pull request.
 
-### Creating Pull Requests
-When creating a pull request, please ensure you:
+This is a rough outline of what a contributor's workflow looks like:
 
-- Provide a clear description of the changes.
-- Link the PR to the relevant issue if applicable.
-- Ensure that your code is well-tested.
-- Run the following local checks before submitting:
-  - `make verify` – Make sure your changes pass all tests and format checks.
+- Create a topic branch from where you want to base the contribution (usually master)
+- Make commits of logical units
+- Push changes in your topic branch to your personal fork of the repository
+- Submit a pull request to [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi)
 
-If the PR is small and manageable, it’s easier for the reviewers to give feedback promptly.
+## Creating Pull Requests
 
-### Code Review
-After submitting a PR, it will be reviewed by a maintainer. Here are some tips to make it easier for your PR to get accepted:
+Pull requests are often called simply "PRs".
+HAMi generally follows the standard [GitHub pull request](https://help.github.com/articles/about-pull-requests/) process.
+To submit a proposed change, please develop the code/fix and add new test cases.
+Before submitting a pull request, run these local verifications to predict whether continuous integration will pass or fail:
 
-- Follow good coding practices. Refer to [Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments) for style guidelines.
-- Write meaningful commit messages that explain the "why" behind your changes. [Best practices for commit messages](https://chris.beams.io/posts/git-commit/) are a great resource.
-- If your PR involves a large change, break it down into smaller, logical pieces that make incremental improvements. This helps reviewers follow the logic of your changes and ensures easier acceptance.
+* Run and pass `make verify`
+
+## Code Review
+
+To make it easier for your PR to receive reviews, consider that reviewers will need you to:
+
+* Follow [good coding guidelines](https://github.com/golang/go/wiki/CodeReviewComments).
+* Write [good commit messages](https://chris.beams.io/posts/git-commit/).
+* Break large changes into a logical series of smaller patches which individually make easily understandable changes, and in aggregate solve a broader issue.
+* label PRs with appropriate reviewers: to do this read the messages the bot sends you to guide you through the PR process.
