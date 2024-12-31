@@ -9,10 +9,10 @@ This is the starting point for joining and contributing to the HAMi community—
 Regular Community Meetings:
 - **Asia Time**: **Friday at 16:00 (UTC+8)** (weekly).
   ([Convert to your timezone.](https://www.thetimezoneconverter.com/?t=14%3A30&tz=GMT%2B8&))
-- **Europe Time**: **Thursday at 11:00 (UTC+1)** (biweekly).
-  ([Convert to your timezone.](https://www.thetimezoneconverter.com/?t=16%3A30&tz=GMT%2B8&))
-- **Pacific Time**: **Thursday at 08:30 (UTC-8)** (biweekly).
-  ([Convert to your timezone.](https://www.thetimezoneconverter.com/?t=10%3A00&tz=GMT%2B8&))
+
+Regular Community Meeting:
+- Asia Timeg: **Friday at 16:00 UTC+8 (Chinese)**(weekly).
+  ([Convert to your timezone](https://www.thetimezoneconverter.com/?t=14%3A30&tz=GMT%2B8&))
 
 Resources:
 - [Meeting notes and agenda](https://docs.google.com/document/d/1YC6hco03_oXbF9IOUPJ29VWEddmITIKIfSmBX8JtGBw/edit#heading=h.g61sgp7w0d0c)
