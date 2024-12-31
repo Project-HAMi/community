@@ -32,7 +32,6 @@ The [Contributor Guide](./contributing.md) provides detailed instructions on how
 
 1. [Your First Contribution](./contributing.md#your-first-contribution)
 2. [Contributor Workflow](./contributing.md#contributor-workflow)
-3. [Tell the world you're using HAMi](./adopters.md)
 
 
 If you're interested in being a contributor and want to get involved in developing the HAMi code, please see [CONTRIBUTOR-LADDER](./CONTRIBUTOR-LADDER.md#contributor) for details on submitting patches and the contribution workflow, including:
