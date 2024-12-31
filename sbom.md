@@ -80,4 +80,3 @@ Software Bill of Materials:
  | sigs.k8s.io/yaml | v1.4.0 | MIT | 
  | tags.cncf.io/container-device-interface | v0.7.1 | Apache-2.0 | 
  | tags.cncf.io/container-device-interface/specs-go | v0.7.0 | Apache-2.0 | 
-
