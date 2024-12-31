@@ -1,0 +1,1 @@
+Similar to https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md
