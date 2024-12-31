@@ -8,13 +8,16 @@ please feel free to add yourself into the following list by a pull request. Ther
 * **Staging:** Decide to use HAMi, testing it in pre-product environment
 * **Production:** Already put HAMi into product environment
 
+If you'd like a full case study interview, [create an issue](https://github.com/Project-HAMi/HAMi/issues/new), and we'll get in touch!
+
 > Note: If some environment labels are inaccurate, please correct them.
 
 
 
 | Organization | Contact | Environment | Description of Use |
 |---|---|---|---|
-| [4paradigm](http://4paradigm.com/) |[@archlitchi](https://github.com/archlitchi) | Production | device-sharing for third-party devices like (GPU,NPU,MLU),etc. |
+| [4paradigm](https://www.4paradigm.com/) |[@archlitchi](https://github.com/archlitchi) | Production | device-sharing for third-party devices like (GPU,NPU,MLU),etc. |
+| [RiseUnion](https://www.theriseunion.com/) |[@yangshiqi](https://github.com/yangshiqi) | Production | device-sharing for third-party devices like (GPU,NPU,MLU),etc. |
 | [Linklogis](https://www.linklogis.com/) | [@rnyrnyrny](https://github.com/rnyrnyrny) | Production | Online inference service. |
 | [PingAn Securities](https://stock.pingan.com/) | [@detongz](https://github.com/detongz) | Testing/Staging | Used with kubeflow to allocate a single gpu to multiple notebooks, improving work efficiency; occasionally encountered jupyter kernel crashes (later resolved by adjusting parameters). |
 | Caper | [@summerisc](https://github.com/summerisc) | Production | Physical gpu partitioning, used with volcano scheduler for automatic training pipelines. |
