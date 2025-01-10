@@ -78,3 +78,4 @@ After submitting a PR, it will be reviewed by a maintainer. Here are some tips t
 ## Tell the world you're using HAMi
 
 Running HAMi in your environment? Feel free to add yourself to the [Adopters](./adopters.md)!
+
