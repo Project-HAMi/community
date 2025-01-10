@@ -74,3 +74,7 @@ After submitting a PR, it will be reviewed by a maintainer. Here are some tips t
 - Follow good coding practices. Refer to [Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments) for style guidelines.
 - Write meaningful commit messages that explain the "why" behind your changes. [Best practices for commit messages](https://chris.beams.io/posts/git-commit/) are a great resource.
 - If your PR involves a large change, break it down into smaller, logical pieces that make incremental improvements. This helps reviewers follow the logic of your changes and ensures easier acceptance.
+
+## Tell the world you're using HAMi
+
+Running HAMi in your environment? Add yourself to our [Adopters](./adopters.md)!
