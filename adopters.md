@@ -20,8 +20,7 @@ If you are using HAMi to improve scheduling or job management, such as in AI/ML,
 
 ### Running HAMi in Your Environment?
 
-Please register and provide feedback on how you're using HAMi via [HAMi adopters](https://project-HAMi.io/adopters).
-
-We are looking forward to your active feedback on usage, issues, best practices, and more, to help drive the development of the HAMi community.
+- Please register and provide feedback on how you're using HAMi via [HAMi adopters](https://project-HAMi.io/adopters).
+- We are looking forward to your active feedback on usage, issues, best practices, and more, to help drive the development of the HAMi community.
 
 Thank you once again for your support of HAMi! We look forward to your participation, and we hope every user can become a [contributor](./contributing.md).
