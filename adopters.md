@@ -18,9 +18,15 @@ If you are using HAMi to improve scheduling or job management, such as in AI/ML,
 - **Project C**: Staging – Our team is using HAMi in a staging environment, working on optimizing resource utilization before full-scale production deployment.
 - **Project D**: Production – HAMi has been fully deployed in production, managing GPU resources for a high-performance AI model training pipeline.
 
+### Running HAMi in Your Environment?
+
+Add yourself to our [Adopters](./adopters.md)!
+
+We look forward to your active feedback on usage, issues, best practices, and more, to help drive the development of the HAMi community.
+
 ### Thank You!
 
 Please register and provide feedback on how you're using HAMi via the following link:
 [HAMi adopters](https://project-HAMi.io/adopters)
 
-Thank you once again for your support of HAMi! We look forward to your participation, and we hope every user can become a [contributor](https://github.com/Project-HAMi/community/blob/main/contributing.md).
+Thank you once again for your support of HAMi! We look forward to your participation, and we hope every user can become a [contributor](./contributing.md).
