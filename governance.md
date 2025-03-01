@@ -33,7 +33,7 @@ The HAMi and its leadership embrace the following values:
 
 ## Membership
 
-The [Community Membership](./CONTRIBUTOR-LADDER.md)
+The [Community Membership](./community-membership.md)
 
 Currently, the maintainers are the governing body for the project. This may
 change as the community grows, such as by adopting an elected steering committee.
