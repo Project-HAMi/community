@@ -13,7 +13,7 @@ This doc outlines the various responsibilities of contributor roles in HAMi.
 | Approver   | Contributions acceptance approval                             | Highly experienced active reviewer and contributor to a subproject | [OWNERS] file approver entry |
 | Maintainer | Demonstrated responsibility and excellent technical judgement | Demonstrated responsibility and excellent technical judgement      | [Maintainers] file entry     |
 
-**Note :** It is mandatory for all HAMi community members to follow HAMi [Code of Conduct](./CODE_OF_CONDUCT.md).
+**Note :** It is mandatory for all HAMi community members to follow HAMi [Code of Conduct](./CODE-OF-CONDUCT.md).
 
 ## New contributors
 
@@ -188,6 +188,6 @@ Involuntary removal/demotion of a contributor happens when responsibilities and 
 Involuntary removal or demotion is handled through a vote by a majority of the current Maintainers.
 
 [two-factor authentication]: https://help.github.com/articles/about-two-factor-authentication
-[OWNERS]: /contributors/guide/owners.md
-[New contributors]: /contributors/guide/CONTRIBUTING.md
+[OWNERS]: https://github.com/Project-HAMi/HAMi/blob/master/OWNERS
+[New contributors]: /contributing.md
 [Maintainers]: https://github.com/Project-HAMi/HAMi/blob/master/MAINTAINERS.md
