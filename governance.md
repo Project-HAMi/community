@@ -52,12 +52,11 @@ accused of a CoC violation.
 
 ## Code of Conduct
 
-[Code of Conduct](./CODE_OF_CONDUCT.md)
+[Code of Conduct](./CODE-OF-CONDUCT.md)
 violations by community members will be referred to the CNCF Code of Conduct
 Committee. Should the CNCF CoC Committee need to work with the project on resolution, the
 Maintainers will appoint a non-involved contributor to work with them.
 
 ## Modifying this Charter
 
-Changes to this Governance and its supporting documents may be approved by 
-a 2/3 vote of the Maintainers.
+Changes to this Governance and its supporting documents may be approved by a 2/3 vote of the Maintainers.
