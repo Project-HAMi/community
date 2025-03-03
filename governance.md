@@ -59,5 +59,4 @@ Maintainers will appoint a non-involved contributor to work with them.
 
 ## Modifying this Charter
 
-Changes to this Governance and its supporting documents may be approved by 
-a 2/3 vote of the Maintainers.
+Changes to this Governance and its supporting documents may be approved by a 2/3 vote of the Maintainers.
