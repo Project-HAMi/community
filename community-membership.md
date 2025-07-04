@@ -88,6 +88,7 @@ The following apply for a sub-project reviewer, for example(HAMi-webui, volcano-
 - Satisfy Either
   - Initial contributer of the sub-project
   OR 
+
   - Primary reviewer for at least 5 PRs to the codebase
   - Reviewed or merged at least 5 substantial PRs to the codebase
 - Knowledgeable about the codebase
@@ -139,6 +140,7 @@ The following apply for a sub-project approver, for example(HAMi-webui, volcano-
 
 - Satisfy Either
   - Initial contributer of the sub-project
+  
   OR 
   - Reviewer of the codebase for at least 3 months
   - Primary reviewer for at least 10 PRs to the codebase
