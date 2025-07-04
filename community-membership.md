@@ -34,7 +34,7 @@ Members are expected to remain active contributors to the community.
 - Sponsor from 2 approvers
 - Enabled [two-factor authentication] on their GitHub account
 - Actively contributed to the community. Contributions may include, but are not limited to:
-  - 10 accepted PRs be **merged**.
+  - 5 accepted PRs be **merged**.
   - Reviewed 5 PRs,
   - Resolved and closed 3 Issues,
   - Participate in HAMi community meetings
@@ -53,7 +53,7 @@ Members are expected to remain active contributors to the community.
 ### Responsibilities and privileges
 
 - Member of the HAMi GitHub organization
-- Can be assigned to issues and PRs and community members can also request their review
+- Issues and PRs can request their review
 - Participate in assigned issues and PRs
 - Welcome new contributors
 - Guide new contributors to relevant docs/files
@@ -71,7 +71,7 @@ HAMi project.
 ### Requirements
 
 The following apply to the part of codebase for which one would be a reviewer in
-an [OWNERS] file (for repos using the bot).
+the [OWNERS] file (for repos using the bot).
 
 - member for at least 3 months
 - Primary reviewer for at least 10 PRs to the codebase
@@ -81,7 +81,21 @@ an [OWNERS] file (for repos using the bot).
   - With no objections from other approvers
   - Done through PR to update the OWNERS file
 - May either self-nominate, be nominated by an approver in this subproject.
-- Nominated by a maintainer and pass super-majority(two-thirds/ 66.66%) vote.
+- Make an agenda in weekly meeting with no objections from other reviewers, approvers, and maintainers
+
+The following apply for a sub-project reviewer, for example(HAMi-webui, volcano-vgpu-device-plugin, etc..)
+
+- Satisfy Either
+  - Initial contributer of the sub-project
+  OR 
+  - Primary reviewer for at least 5 PRs to the codebase
+  - Reviewed or merged at least 5 substantial PRs to the codebase
+- Knowledgeable about the codebase
+- Sponsor from 1 maintainer
+  - With no objections from other approvers
+  - Done through PR to update the OWNERS file
+- May either self-nominate, be nominated by an approver or maintainer in this subproject.
+- Make an agenda in weekly meeting with no objections from other reviewers, approvers, and maintainers
 
 ### Responsibilities and privileges
 
@@ -120,6 +134,21 @@ in an [OWNERS] file (for repos using the bot).
   - With no objections from other subproject owners
   - Done through PR to update the OWNERS file
 - Nominated by a maintainer and pass super-majority(two-thirds/ 66.66%) vote.
+
+The following apply for a sub-project approver, for example(HAMi-webui, volcano-vgpu-device-plugin, etc..)
+
+- Satisfy Either
+  - Initial contributer of the sub-project
+  OR 
+  - Reviewer of the codebase for at least 3 months
+  - Primary reviewer for at least 10 PRs to the codebase
+  - Reviewed or merged at least 10 substantial PRs to the codebase
+- Knowledgeable about the codebase
+- Sponsor from 1 maintainer
+  - With no objections from other approvers
+  - Done through PR to update the OWNERS file
+- May either self-nominate, be nominated by an approver or maintainer in this subproject.
+- Make an agenda in weekly meeting with no objections from other reviewers, approvers, and maintainers
 
 ### Responsibilities and privileges
 
