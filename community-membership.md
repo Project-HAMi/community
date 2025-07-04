@@ -87,8 +87,7 @@ The following apply for a sub-project reviewer, for example(HAMi-webui, volcano-
 
 - Satisfy Either
   - Initial contributer of the sub-project
-  OR 
-
+- OR 
   - Primary reviewer for at least 5 PRs to the codebase
   - Reviewed or merged at least 5 substantial PRs to the codebase
 - Knowledgeable about the codebase
@@ -139,9 +138,8 @@ in an [OWNERS] file (for repos using the bot).
 The following apply for a sub-project approver, for example(HAMi-webui, volcano-vgpu-device-plugin, etc..)
 
 - Satisfy Either
-  - Initial contributer of the sub-project
-  
-  OR 
+  - Initial contributer of the sub-project 
+- OR
   - Reviewer of the codebase for at least 3 months
   - Primary reviewer for at least 10 PRs to the codebase
   - Reviewed or merged at least 10 substantial PRs to the codebase
