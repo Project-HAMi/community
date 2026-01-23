@@ -13,21 +13,21 @@ Heterogeneous AI Computing Virtualization Middleware (HAMi), formerly known as k
 
 The HAMi and its leadership embrace the following values:
 
-* Openness: Communication and decision-making happens in the open and is discoverable for future
+- Openness: Communication and decision-making happens in the open and is discoverable for future
   reference. As much as possible, all discussions and work take place in public
   forums and open repositories.
 
-* Fairness: All stakeholders have the opportunity to provide feedback and submit
+- Fairness: All stakeholders have the opportunity to provide feedback and submit
   contributions, which will be considered on their merits.
 
-* Community over Product or Company: Sustaining and growing our community takes
+- Community over Product or Company: Sustaining and growing our community takes
   priority over shipping code or sponsors' organizational goals. Each
   contributor participates in the project as an individual.
 
-* Inclusivity: We innovate through different perspectives and skill sets, which
+- Inclusivity: We innovate through different perspectives and skill sets, which
   can only be accomplished in a welcoming and respectful environment.
 
-* Participation: Responsibilities within the project are earned through
+- Participation: Responsibilities within the project are earned through
   participation, and there is a clear path up the contributor ladder into leadership
   positions.
 
@@ -59,5 +59,5 @@ Maintainers will appoint a non-involved contributor to work with them.
 
 ## Modifying this Charter
 
-Changes to this Governance and its supporting documents may be approved by 
+Changes to this Governance and its supporting documents may be approved by
 a 2/3 vote of the Maintainers.
