@@ -7,12 +7,29 @@ This is the starting point for joining and contributing to the HAMi community—
 ## Community Meeting
 
 Regular Community Meetings:
+
 - **Asia Time**: **Friday at 16:00 (UTC+8)** (weekly).
   ([Convert to your timezone.](https://www.thetimezoneconverter.com/?t=14%3A30&tz=GMT%2B8&))
 
 Resources:
+
 - [Meeting notes and agenda](https://shorturl.at/S457j)
 - [Meeting link](https://meeting.tencent.com/dm/Ntiwq1BICD1P)
+
+## HAMi Meetup
+
+Archive of in-person meetups with presentation materials.
+
+### Recent Meetups
+
+**2025:**
+
+- [Nov 30 - Shanghai](./hami-meetup/01-shanghai-20251130/)
+- [Dec 27 - Beijing](./hami-meetup/02-beijing-20251227/)
+
+### Learn More
+
+Visit [HAMi Meetup](./hami-meetup/) for complete details and presentation materials.
 
 ## Contact
 
