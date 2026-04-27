@@ -32,7 +32,7 @@
 
 - **Speaker:** 苏茜 - 招商银行
 - **Topic:** Multi-source heterogeneous AI scheduling, Ascend 910C supernode, vNPU-Core soft slicing, topology-aware scheduling
-- [Download PDF](./heterogeneous-ai-scheduling-hami-suqian.pdf)
+- [Download PDF](./heterogeneous-ai-scheduling-hami-suxi.pdf)
 
 ### Kubernetes GPU Integration at Enflame: Operator / DRA / CDI
 
