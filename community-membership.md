@@ -8,7 +8,7 @@ This doc outlines the various responsibilities of contributor roles in HAMi.
 
 | Role       | Responsibilities                                              | Requirements                                                       | Defined by                   |
 |------------|---------------------------------------------------------------|--------------------------------------------------------------------|------------------------------|
-| Member     | Active contributor in the community                           | Sponsored by 2 reviewers and multiple contributions to the project | HAMi GitHub org member    |
+| Member     | Active contributor in the community                           | Sponsored by 2 approvers and multiple contributions to the project | HAMi GitHub org member    |
 | Reviewer   | Review contributions from other members                       | History of review and authorship in a subproject                   | [OWNERS] file reviewer entry |
 | Approver   | Contributions acceptance approval                             | Highly experienced active reviewer and contributor to a subproject | [OWNERS] file approver entry |
 | Maintainer | Demonstrated responsibility and excellent technical judgement | Demonstrated responsibility and excellent technical judgement      | [Maintainers] file entry     |
@@ -42,12 +42,12 @@ Members are expected to remain active contributors to the community.
   - Become responsible for a key project management area or some equivalent combination or contribution
 - Must have been contributing for at least 3 months
 - Must be actively contributing to at least one project area
-- Must have two sponsors who are also Organization Members, at least one of whom does not work for the same employer
-- **[Open an issue][membership request] against the HAMi/community repo**
+- At least one of your two sponsors must not work for the same employer as you
+- **[Open an issue][membership request] against the Project-HAMi/community repo**
  - Ensure your sponsors are @mentioned on the issue
  - Complete every item on the issue checklist
  - Make sure that the list of contributions included is representative of your work on the project.
-- Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
+- Have your sponsoring approvers reply confirmation of sponsorship: `+1`
 - Once your sponsors have responded, your request will be handled by the `HAMi GitHub Admin team`.
 
 ### Responsibilities and privileges
