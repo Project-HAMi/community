@@ -1,0 +1,22 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug report or feature request (code)
+    url: https://github.com/Project-HAMi/HAMi/issues/new/choose
+    about: >-
+      Code bugs and feature requests belong in the repository they affect.
+      Most of them go to the main Project-HAMi/HAMi repository, not here.
+  - name: Security vulnerability
+    url: https://github.com/Project-HAMi/HAMi/security/advisories/new
+    about: >-
+      Please do not open public issues for security problems.
+      Report them privately via a security advisory.
+  - name: Questions and community discussion
+    url: https://github.com/Project-HAMi/HAMi/discussions
+    about: >-
+      Usage questions and open discussion happen on GitHub Discussions,
+      the HAMi Slack workspace, and the community mailing list.
+  - name: HAMi Ambassador Program
+    url: https://github.com/Project-HAMi/community/blob/main/ambassador-program.md
+    about: >-
+      Read the Ambassador Program charter for qualification criteria.
+      Applications are accepted during the annual window announced by the community.
