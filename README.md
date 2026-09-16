@@ -18,32 +18,11 @@ Resources:
 
 ## HAMi Meetup
 
-Archive of in-person meetups with presentation materials.
-
-### Recent Meetups
-
-**2025:**
-
-- [Nov 30 - Shanghai](./hami-meetup/01-shanghai-20251130/)
-- [Dec 27 - Beijing](./hami-meetup/02-beijing-20251227/)
-
-**2026：**
-
-- [Apr 25 - Shenzhen](./hami-meetup/03-shenzhen-20260425/)
-
-### Learn More
-
-Visit [HAMi Meetup](./hami-meetup/) for complete details and presentation materials.
+Archive of in-person meetups with presentation materials. Visit [HAMi Meetup](./hami-meetup/) for the complete list and presentation materials.
 
 ## Webinar
 
-Archive of online webinars with presentation materials.
-
-**2026:**
-
-- [Ep.01 - How HAMi 2.9 Transforms Kubernetes AI Compute Scheduling (May 14)](./webinar/)
-
-Visit [Webinar Archive](./webinar/) for complete details and presentation materials.
+Archive of online webinars with presentation materials. Visit [Webinar Archive](./webinar/) for the complete list and presentation materials.
 
 ## Contact
 
