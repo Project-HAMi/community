@@ -8,13 +8,16 @@ This is the starting point for joining and contributing to the HAMi community: i
 
 Regular Community Meetings:
 
-- **Asia Time**: **Friday at 16:00 (UTC+8)** (weekly).
-  ([Convert to your timezone.](https://www.thetimezoneconverter.com/?t=14%3A30&tz=GMT%2B8&))
+- **Chinese Meeting**: **Friday at 16:00 (UTC+8)** (weekly).
+  ([Convert to your timezone.](https://www.thetimezoneconverter.com/?t=16%3A00&tz=GMT%2B8&))
+- **English Meeting**: **Wednesday at 16:30 (UTC+8)** (biweekly).
+  ([Convert to your timezone.](https://www.thetimezoneconverter.com/?t=16%3A30&tz=GMT%2B8&))
 
 Resources:
 
 - [Meeting notes and agenda](https://shorturl.at/S457j)
-- [Meeting link](https://meeting.tencent.com/dm/Ntiwq1BICD1P)
+- [Chinese Meeting link (Tencent Meeting)](https://meeting.tencent.com/dm/Ntiwq1BICD1P)
+- [English Meeting link (Zoom)](https://zoom-lfx.platform.linuxfoundation.org/meeting/95994137931?password=55b961b5-3e8e-4040-8657-0f2d26511f1d)
 
 ## HAMi Meetup
 
