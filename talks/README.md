@@ -17,6 +17,8 @@ Archive of HAMi-related talks presented at external community events and confere
 | 09 | 2026-10-05 | Observability Summit Europe 2026 | Vendor-Neutral GPU Observability for Kubernetes | Reza Jelveh |
 | 10 | 2026-10-08 | Open Source Summit Europe 2026 | Designing Permissioned AI Agents That Can Run Offline | Reza Jelveh |
 | 11 | 2026-10-11 | SGLang Meetup Shanghai | How to Optimize Your SGLang Inference Cluster | Mengxuan Li (@archilitchi) |
+| 12 | 2026-10-27 | ContainerDays Singapore 2026 | Hands-on GPU Scheduling Workshop & 10x Your Neocloud's GPU Utilization with HAMi | Jimmy Song & Reza Jelveh |
+| 13 | 2026-11-09 | KubeCon + CloudNativeCon North America 2026 | Inference Day Joint Talk with Red Hat, Maintainer Track & ContribFest | Mengxuan Li, Yuchen Fama, Reza Jelveh, Han Shen |
 
 - [01 - KCD Beijing 2026](./01-kcd-beijing-20260323/)
 - [02 - vLLM Meetup 2026](./02-vllm-meetup-20260716/)
@@ -29,3 +31,5 @@ Archive of HAMi-related talks presented at external community events and confere
 - [09 - Observability Summit Europe 2026](./09-observability-summit-europe-20261005/)
 - [10 - Open Source Summit Europe 2026](./10-opensource-summit-europe-20261008/)
 - [11 - SGLang Meetup Shanghai 2026](./11-sglang-meetup-20261011/)
+- [12 - ContainerDays Singapore 2026](./12-containerdays-singapore-20261027/)
+- [13 - KubeCon + CloudNativeCon North America 2026](./13-kubecon-na-20261109/)
